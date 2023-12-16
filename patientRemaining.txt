@@ -1,0 +1,4 @@
+show schedule
+in each passed appointment he can download the perscription uploaded by the doctor 
+
+view his appointment
